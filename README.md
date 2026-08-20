@@ -1,9 +1,5 @@
-# Brecha-de-infraestructura-y-cobertura-en-el-Per-
-Identificar patrones de concentración/dispersión de instituciones educativas según nivel, tipo de gestión y ubicación geográfica, para detectar zonas con déficit de oferta educativa.
-
-ROMPEBRECHAS
-
-Curso: Data Mining — 2026-II Integrantes: Mateo Pereyra · Raúl Porras · Mauro Martínez
+# Brecha-de-infraestructura-y-cobertura-en-el-Perú-
+Grupo: ROMPEBRECHAS
 
 Proyecto de limpieza e integración de datos sobre brechas territoriales en la oferta educativa peruana, desarrollado como entregable del laboratorio "Limpieza inicial de datos e integración básica".
 
@@ -67,3 +63,4 @@ El notebook exporta resultado_laboratorio_integracion.xlsx con tres hojas: resum
 F3 (INEI, población distrital) aún no está incorporada; es necesaria para convertir conteos en tasas por distrito.
 Si se requiere retomar el enfoque de condiciones de funcionamiento de Inicial, hace falta la Cédula 1A real (el archivo entregado es la 3AP, de Primaria).
 La sección 7 ("Problemas encontrados") conserva observaciones generales de una versión previa del proyecto (p. ej. sobre TDOCENTE/TALUMNO/TSECCION) que deben revisarse contra el hallazgo ya documentado de que ninguna fuente actual trae variables de matrícula, docentes o secciones.
+Integrantes: Mateo Pereyra · Raúl Porras · Mauro Martíne
