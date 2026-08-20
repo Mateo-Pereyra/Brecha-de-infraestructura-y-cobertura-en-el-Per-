@@ -1,6 +1,6 @@
-# Brecha-de-infraestructura-y-cobertura-en-el-Perú-
+# Brecha de infraestructura y cobertura en el Perú
 Grupo: ROMPEBRECHAS
-
+Curso: Data Mining
 Proyecto de limpieza e integración de datos sobre brechas territoriales en la oferta educativa peruana, desarrollado como entregable del laboratorio "Limpieza inicial de datos e integración básica".
 
 1. Problema y unidad de análisis
