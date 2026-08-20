@@ -63,4 +63,5 @@ El notebook exporta resultado_laboratorio_integracion.xlsx con tres hojas: resum
 F3 (INEI, población distrital) aún no está incorporada; es necesaria para convertir conteos en tasas por distrito.
 Si se requiere retomar el enfoque de condiciones de funcionamiento de Inicial, hace falta la Cédula 1A real (el archivo entregado es la 3AP, de Primaria).
 La sección 7 ("Problemas encontrados") conserva observaciones generales de una versión previa del proyecto (p. ej. sobre TDOCENTE/TALUMNO/TSECCION) que deben revisarse contra el hallazgo ya documentado de que ninguna fuente actual trae variables de matrícula, docentes o secciones.
+
 Integrantes: Mateo Pereyra · Raúl Porras · Mauro Martíne
